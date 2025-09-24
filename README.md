@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Titanic Survival Prediction 
 
 This is a **Machine Learning project** that predicts whether a passenger would survive the Titanic disaster based on features like age, sex, class, and fare.
@@ -15,3 +16,6 @@ Titanic_Project/
 ├─ app.py # Streamlit interactive app
 ├─ requirements.txt # Python dependencies
 ├─ README.md # Project overview
+=======
+# Titanic Survival Prediction 
+>>>>>>> 924b9e8 (Add README with project overview)
